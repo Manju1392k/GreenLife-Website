@@ -18,7 +18,7 @@ No Responsive Design 📱🥲
 
 # 🗂️ Framework
 
-The below table framewor's is used in this project. To run this project. This Framework's has been installed in system with Same Version or Latest Version
+The below table framework's is used in this project. To run this project. This Framework's has been installed in system with Same Version or Latest Version
 
 | Framework  | Version |
 | ------------- | ------------- |
