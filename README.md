@@ -1,6 +1,6 @@
 # ℹ️ GreenLife
 
-Green Life is a very good website. Green life contain challenges for plantion of tress. 🌳🌴
+Green Life is a very good website. Green life contain challenges for plantion of trees. 🌳🌴
 
 Plantion of trees is good for earth and environment🌏
 
