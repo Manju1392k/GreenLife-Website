@@ -18,6 +18,21 @@ No Responsive Design 📱🥲
 
 # 🗂️ Framework
 
+The below table framewor's is used in this project. To run this project. This Framework's has been installed in system with Same Version or Latest Version
+
+| Framework  | Version |
+| ------------- | ------------- |
+| Node.js  | 16.14.2  |
+| Tailwindcss  | 3.0.23  |
+
+---
+
+# Command for Execute Project
+
+```bash
+npm run runserver
+```
+
 
 
 
