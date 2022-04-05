@@ -34,4 +34,3 @@ npm run runserver
 ```
 
 
-
